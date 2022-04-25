@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "666220110589",
+    "project_id": "parcialii-bbd77",
+    "storage_bucket": "parcialii-bbd77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666220110589:android:138ea0f3bd91c73ed61494",
+        "android_client_info": {
+          "package_name": "com.example.parcialii"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666220110589-4rd5hss090n0l9g6g58976pbmivqkvlk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2FBaDVIu19Bi8Zu6GR-KA_NV9geTaxxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666220110589-4rd5hss090n0l9g6g58976pbmivqkvlk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
