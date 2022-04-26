@@ -1,5 +1,6 @@
 package com.example.parcialii
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Toast
@@ -38,5 +39,9 @@ class MainActivity : AppCompatActivity() {
                 Toast.makeText(this, "¡Ha ocurrido un error al guardar el registro!", Toast.LENGTH_SHORT).show()
             }
         }
+        binding.button2.setOnClickListener {
+            startActivity(Intent(this, MainActivity2::class.java))
+        }
+
     }
 }
